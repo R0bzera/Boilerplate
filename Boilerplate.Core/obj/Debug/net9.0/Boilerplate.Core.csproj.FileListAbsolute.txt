@@ -1,0 +1,11 @@
+C:\Projetos\Boilerplate\Boilerplate.Core\bin\Debug\net9.0\Boilerplate.Core.deps.json
+C:\Projetos\Boilerplate\Boilerplate.Core\bin\Debug\net9.0\Boilerplate.Core.dll
+C:\Projetos\Boilerplate\Boilerplate.Core\bin\Debug\net9.0\Boilerplate.Core.pdb
+C:\Projetos\Boilerplate\Boilerplate.Core\obj\Debug\net9.0\Boilerplate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Boilerplate\Boilerplate.Core\obj\Debug\net9.0\Boilerplate.Core.AssemblyInfoInputs.cache
+C:\Projetos\Boilerplate\Boilerplate.Core\obj\Debug\net9.0\Boilerplate.Core.AssemblyInfo.cs
+C:\Projetos\Boilerplate\Boilerplate.Core\obj\Debug\net9.0\Boilerplate.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\Boilerplate\Boilerplate.Core\obj\Debug\net9.0\Boilerplate.Core.dll
+C:\Projetos\Boilerplate\Boilerplate.Core\obj\Debug\net9.0\refint\Boilerplate.Core.dll
+C:\Projetos\Boilerplate\Boilerplate.Core\obj\Debug\net9.0\Boilerplate.Core.pdb
+C:\Projetos\Boilerplate\Boilerplate.Core\obj\Debug\net9.0\ref\Boilerplate.Core.dll
